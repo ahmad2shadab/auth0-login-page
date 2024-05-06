@@ -18,7 +18,7 @@ function App() {
               className="action-button"
               onClick={(e) => loginWithRedirect()}
             >
-              Start
+              Login
             </button>
           )}
         </header>
